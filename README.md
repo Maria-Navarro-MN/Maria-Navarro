@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/88668097-513f-421c-b166-aa17abf23ed7)# 👩🏻‍💻 Maria Navarro
+👩🏻‍💻 Maria Navarro
 **`Analista de Dados & Criadora de Soluções Tecnológicas Personalizadas`**
 
 Olá, meu nome é Maria Paola, tenho 21 anos e moro no Rio de Janeiro.
