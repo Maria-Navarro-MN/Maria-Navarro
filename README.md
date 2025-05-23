@@ -1,4 +1,5 @@
 👩🏻‍💻 Maria Navarro
+
 **`Analista de Dados & Criadora de Soluções Tecnológicas Personalizadas`**
 
 Olá, meu nome é Maria Paola, tenho 21 anos e moro no Rio de Janeiro.
