@@ -81,7 +81,7 @@ Você pode me encontrar no "[LinkedIn](https://www.linkedin.com/in/maria-paola-n
   title="Excel" 
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/file/icons8-microsoft-excel-48" 
+  src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" 
 />
 
 <!-- Power BI -->
