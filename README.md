@@ -98,8 +98,9 @@ Você pode me encontrar no "[LinkedIn](https://www.linkedin.com/in/maria-paola-n
 
 ### 📊 Estatísticas
 
-| <a href="https://github.com/Maria-Navarro-MN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Maria-Navarro-MN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Maria-Navarro-MN&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maria's GitHub stats" /></a> | <a href="https://github.com/Maria-Navarro-MN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Navarro-MN&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
 
 
 
