@@ -10,6 +10,6 @@ Também gosto de compartilhar conhecimento e conectar com pessoas da área!
 Você pode me encontrar no "[LinkedIn](https://www.linkedin.com/in/maria-paola-navarro-6587a226b/)" e em breve também no meu site (em construção).
 
 [![Email Badge](https://custom-icon-badges.demolab.com/badge/mariatn@gmail.com-blue?style=for-the-badge&logo=mention&logoColor=white)](mailto:mariatn233@gmail.com)
-
+[![Portfólio](https://custom-icon-badges.demolab.com/badge/-Portf%C3%B3lio-orange?style=for-the-badge&logo=folder&logoColor=white)](https://seu-site.com)
 
 
