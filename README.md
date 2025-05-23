@@ -12,4 +12,88 @@ Você pode me encontrar no "[LinkedIn](https://www.linkedin.com/in/maria-paola-n
 [![Email Badge](https://custom-icon-badges.demolab.com/badge/mariatn@gmail.com-blue?style=for-the-badge&logo=mention&logoColor=white)](mailto:mariatn233@gmail.com)
 [![Portfólio](https://custom-icon-badges.demolab.com/badge/-Portf%C3%B3lio-orange?style=for-the-badge&logo=folder&logoColor=white)](https://seu-site.com)
 
+### 🤖 Linguagens e Tecnologias
+
+<!-- Git -->
+<img 
+  align="left" 
+  alt="Git" 
+  title="Git" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<!-- HTML -->
+<img 
+  align="left" 
+  alt="HTML" 
+  title="HTML" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<!-- CSS -->
+<img 
+  align="left" 
+  alt="CSS" 
+  title="CSS" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<!-- JavaScript -->
+<img 
+  align="left" 
+  alt="JavaScript" 
+  title="JavaScript" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<!-- Python -->
+<img 
+  align="left" 
+  alt="Python" 
+  title="Python" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<!-- MySQL -->
+<img 
+  align="left" 
+  alt="MySQL" 
+  title="MySQL" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<!-- Excel -->
+<img 
+  align="left" 
+  alt="Excel" 
+  title="Excel" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/file/file-original.svg" 
+/>
+
+<!-- Power BI -->
+<img 
+  align="left" 
+  alt="Power BI" 
+  title="Power BI" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://img.icons8.com/color/48/power-bi.png" 
+/>
+
+<br/><br/>
+
 
