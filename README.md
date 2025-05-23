@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Maria Navarro
+![image](https://github.com/user-attachments/assets/88668097-513f-421c-b166-aa17abf23ed7)# 👩🏻‍💻 Maria Navarro
 **`Analista de Dados & Criadora de Soluções Tecnológicas Personalizadas`**
 
 Olá, meu nome é Maria Paola, tenho 21 anos e moro no Rio de Janeiro.
@@ -98,7 +98,7 @@ Você pode me encontrar no "[LinkedIn](https://www.linkedin.com/in/maria-paola-n
 
 ### 📊 Estatísticas
 
-| <a href="https://github.com/Maria-Navarro-MN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Maria-Navarro-MN&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maria's GitHub stats" /></a> | <a href="https://github.com/Maria-Navarro-MN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Navarro-MN&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Maria-Navarro-MN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Maria-Navarro-MN&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Maria's GitHub stats" /></a> | <a href="https://github.com/Maria-Navarro-MN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Navarro-MN&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
